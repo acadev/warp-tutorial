@@ -1,6 +1,8 @@
 # Warp Python Tutorial - Quick Start Guide
 
-This repository contains a comprehensive tutorial demonstrating Warp's AI-powered terminal capabilities for Python development.
+This repository contains a comprehensive tutorial demonstrating Warp's AI-powered terminal capabilities for Python development, including multi-agent workflows and computational biology examples.
+
+> Developed as part of Argonne's vibe coding hackathon
 
 ## 🚀 Quick Start
 
@@ -24,6 +26,7 @@ This repository contains a comprehensive tutorial demonstrating Warp's AI-powere
 - **Debugging**: AI-powered error resolution
 - **Workflows**: Automated development processes
 - **Notebooks**: Executable documentation
+- **Computational Biology**: Real scientific workflows with molecular dynamics
 
 ### Python Skills Covered
 - Setting up development environments
@@ -32,6 +35,8 @@ This repository contains a comprehensive tutorial demonstrating Warp's AI-powere
 - Working with APIs and databases
 - Code quality and testing
 - Git workflows
+- Scientific computing with OpenMM
+- Molecular dynamics simulations
 
 ## 💡 Pro Tips
 
@@ -45,6 +50,7 @@ This repository contains a comprehensive tutorial demonstrating Warp's AI-powere
 - Basic terminal familiarity
 - Python 3.7+ installed
 - No prior Python experience required!
+- For computational biology: conda/mamba recommended
 
 ## 📚 Tutorial Structure
 
@@ -56,9 +62,10 @@ This repository contains a comprehensive tutorial demonstrating Warp's AI-powere
 6. **Workflows** - Development automation
 7. **Advanced Features** - APIs, databases, web scraping
 8. **Multi-Agent Workflows** - Coordinate multiple agents for complex projects
-9. **Notebooks** - Interactive documentation
-10. **Troubleshooting** - Common issues and solutions
-11. **Next Steps** - Advanced topics and resources
+9. **Computational Biology** - Molecular dynamics simulations with OpenMM
+10. **Notebooks** - Interactive documentation
+11. **Troubleshooting** - Common issues and solutions
+12. **Next Steps** - Advanced topics and resources
 
 ## 🤖 Example AI Agent Commands
 
@@ -80,11 +87,21 @@ Try these in Warp's terminal:
 @agent:devops Set up Docker containers and deployment scripts
 ```
 
+### Computational Biology Commands
+```bash
+@agent:structure Prepare protein structures for molecular dynamics
+@agent:simulation Set up OpenMM molecular dynamics simulations
+@agent:analysis Analyze MD trajectories and validate hypotheses
+@agent:reporting Generate scientific reports and visualizations
+```
+
 ## 🔗 Useful Links
 
 - [Warp Documentation](https://docs.warp.dev/)
 - [Python Official Docs](https://docs.python.org/)
 - [Python Package Index](https://pypi.org/)
+- [OpenMM Documentation](http://docs.openmm.org/)
+- [MDTraj Documentation](https://mdtraj.org/)
 
 ## 📝 License
 

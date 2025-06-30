@@ -1646,7 +1646,7 @@ Warp's Notebook feature allows you to create interactive, executable documentati
 
 ---
 
-## Part 10: Troubleshooting Common Issues
+## Part 11: Troubleshooting Common Issues
 
 ### Python Environment Issues
 
@@ -1676,7 +1676,7 @@ pip install --upgrade pip
 
 ---
 
-## Part 11: Next Steps and Advanced Topics
+## Part 12: Next Steps and Advanced Topics
 
 ### Explore More AI Capabilities
 
